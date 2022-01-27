@@ -1,2 +1,2 @@
-# Line-Rider
+# Line Rider
 Line Rider, but slightly different
