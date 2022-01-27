@@ -1,2 +1,2 @@
-# Line-Rider-but-weird
-Line Rider, but it's weirder
+# Line-Rider
+Line Rider, but slightly different
